@@ -1,4 +1,5 @@
 10 PRINT "HI RAMSEY"
 20 PRINT "*********"
 30 PRINT " : D     "
-40 GOTO 10
+40 PRINT "HEY"
+50 GOTO 10
