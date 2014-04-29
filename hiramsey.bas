@@ -1,0 +1,4 @@
+10 PRINT "HI RAMSEY"
+20 PRINT "*********"
+30 PRINT " : D     "
+40 GOTO 10
